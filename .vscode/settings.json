@@ -1,0 +1,8 @@
+{
+  "python.analysis.extraPaths": ["./src"]
+  "allure", {
+    outputDir: 'reports',
+    disableWebdriverStepsReporting: false,
+    disableWebdriverScreenshotsReporting: false,
+}
+}
